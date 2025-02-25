@@ -1,5 +1,7 @@
 ![LangChain Academy](https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/66e9eba1020525eea7873f96_LCA-big-green%20(2).svg)
 
+https://academy.langchain.com/courses/take/intro-to-langgraph/texts/58260773-module-1-resources
+
 ## Introduction
 
 Welcome to LangChain Academy! 
